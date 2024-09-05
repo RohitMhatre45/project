@@ -1,0 +1,87 @@
+/* AppNavbar.css */
+
+.brand-text {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 1rem;
+    color: #f8f9fa;
+    margin-right: 50px;
+  }
+  
+  .nav-link-text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    margin-right: 30px;
+    color: #f8f9fa !important;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .nav-link-text:hover {
+    color: #ffc107 !important;
+  }
+  
+  .navbar {
+    background-color: #343a40 !important;
+  }
+  
+  .navbar .dropdown-menu {
+    background-color: #343a40;
+  }
+  
+  .navbar .dropdown-item {
+    color: #f8f9fa;
+  }
+  
+  .navbar .dropdown-item:hover {
+    background-color: #495057;
+    color: #ffc107;
+  }
+  
+  .form-control {
+    background-color: #495057;
+    border: 1px solid #495057;
+    color: #f8f9fa;
+  }
+  
+  .form-control::placeholder {
+    color: #ced4da;
+  }
+  
+  .form-control:focus {
+    background-color: #495057;
+    color: #f8f9fa;
+  }
+  
+  .search-form {
+    width: 300px;
+    margin-right: 30px;
+  }
+  
+  .btn-outline-light {
+    color: #f8f9fa;
+    border-color: #ffc107;
+  }
+  
+  .btn-outline-light:hover {
+    color: #343a40;
+    background-color: #ffc107;
+    border-color: #ffc107;
+  }
+  
+  .ms-3 {
+    margin-left: 2rem !important;
+  }
+  
+  .navbar-nav .nav-item {
+    margin-right: 20px;
+  }
+  select {
+    color: black; /* Set the text color */
+    background-color: white; /* Ensure the background is white */
+  }
+  
+  select option {
+    color: black; /* Ensure options have black text */
+    background-color: white; /* Background of the options */
+  }
+  

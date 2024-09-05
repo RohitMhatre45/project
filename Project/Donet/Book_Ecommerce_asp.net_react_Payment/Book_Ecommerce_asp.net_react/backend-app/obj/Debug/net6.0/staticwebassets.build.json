@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "aVaXSU9qATlmAgbGigv33tC++F3IMTBYqAco2VelwAo=",
+  "Source": "backend-app",
+  "BasePath": "_content/backend-app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "backend-app\\wwwroot",
+      "Source": "backend-app",
+      "ContentRoot": "D:\\A er\\final-project\\Book_Ecommerce_asp.net_react_Payment\\Book_Ecommerce_asp.net_react\\backend-app\\wwwroot\\",
+      "BasePath": "_content/backend-app",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\A er\\final-project\\Book_Ecommerce_asp.net_react_Payment\\Book_Ecommerce_asp.net_react\\backend-app\\wwwroot\\images\\1861019.jpg",
+      "SourceId": "backend-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\A er\\final-project\\Book_Ecommerce_asp.net_react_Payment\\Book_Ecommerce_asp.net_react\\backend-app\\wwwroot\\",
+      "BasePath": "_content/backend-app",
+      "RelativePath": "images/1861019.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1861019.jpg"
+    },
+    {
+      "Identity": "D:\\A er\\final-project\\Book_Ecommerce_asp.net_react_Payment\\Book_Ecommerce_asp.net_react\\backend-app\\wwwroot\\images\\bb 1.jpg",
+      "SourceId": "backend-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\A er\\final-project\\Book_Ecommerce_asp.net_react_Payment\\Book_Ecommerce_asp.net_react\\backend-app\\wwwroot\\",
+      "BasePath": "_content/backend-app",
+      "RelativePath": "images/bb 1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bb 1.jpg"
+    },
+    {
+      "Identity": "D:\\A er\\final-project\\Book_Ecommerce_asp.net_react_Payment\\Book_Ecommerce_asp.net_react\\backend-app\\wwwroot\\images\\bb3.jpg",
+      "SourceId": "backend-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\A er\\final-project\\Book_Ecommerce_asp.net_react_Payment\\Book_Ecommerce_asp.net_react\\backend-app\\wwwroot\\",
+      "BasePath": "_content/backend-app",
+      "RelativePath": "images/bb3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bb3.jpg"
+    }
+  ]
+}

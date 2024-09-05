@@ -1,0 +1,57 @@
+/* UserRolesManagement.css */
+.container {
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  .table-container {
+    display: grid;
+    gap: 1px;
+    grid-template-columns: repeat(5, 1fr);
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .grid-header {
+    display: contents;
+    background-color: #f4f4f4;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 2px solid #ddd; /* Thicker line for header */
+  }
+  
+  .grid-header > div {
+    padding: 10px;
+    border-right: 1px solid #ddd;
+  }
+  
+  .grid-body {
+    display: contents;
+  }
+  
+  .grid-row {
+    display: contents;
+    border-bottom: 1px solid #ddd; /* Line between rows */
+  }
+  
+  .grid-row > div {
+    padding: 10px;
+    border-right: 1px solid #ddd;
+  }
+  
+  .grid-row:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  /* Ensure last column has no right border */
+  .grid-row > div:last-child {
+    border-right: none;
+  }
+  
+  .grid-body > .grid-row:last-child {
+    border-bottom: none; /* No bottom border for the last row */
+  }
+  

@@ -1,0 +1,51 @@
+/* Add this to your existing CSS file or create a new one */
+/* Custom styles for SellerProfile component */
+
+.seller-profile-container {
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .seller-profile-card {
+    background-color: #343a40;
+    color: #fff;
+    border: 2px solid #ffc107;
+  }
+  
+  .seller-profile-header {
+    border-bottom: 3px solid #ffc107;
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+  }
+  
+  .seller-profile-content {
+    padding: 20px;
+  }
+  
+  .seller-profile-content h4 {
+    margin-bottom: 20px;
+  }
+  
+  .seller-profile-info {
+    margin-bottom: 20px;
+  }
+  
+  .seller-profile-info p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .seller-profile-logout-btn {
+    background-color: #ffc107;
+    color: #343a40;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .seller-profile-logout-btn:hover {
+    background-color: #ffca2c;
+  }
+  

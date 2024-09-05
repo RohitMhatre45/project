@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A er\\final-project\\Book_Ecommerce_asp.net_react_Payment\\Book_Ecommerce_asp.net_react\\backend-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA353F-D49F-4575-8006-0134302DCCF2}|backend-app.csproj|d:\\a er\\final-project\\book_ecommerce_asp.net_react_payment\\book_ecommerce_asp.net_react\\backend-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDA353F-D49F-4575-8006-0134302DCCF2}|backend-app.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 241,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\A er\\final-project\\Book_Ecommerce_asp.net_react_Payment\\Book_Ecommerce_asp.net_react\\backend-app\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\A er\\final-project\\Book_Ecommerce_asp.net_react_Payment\\Book_Ecommerce_asp.net_react\\backend-app\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:06:49.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
